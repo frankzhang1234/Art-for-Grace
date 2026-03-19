@@ -7,7 +7,7 @@ const About = () => {
         </h2>
         <div className="space-y-4 text-muted-foreground text-sm leading-relaxed font-light">
           <p>
-            Frank Zhang is a very very talented, funny, smart, cool
+            Frank Zhang is a very  talented, funny, smart, cool
             professional, hard working, and humble artist!
           </p>
         </div>
