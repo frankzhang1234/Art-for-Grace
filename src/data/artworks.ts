@@ -22,10 +22,10 @@ export interface Artwork {
 
 const artworks: Artwork[] = [
   {
-    src: "/artworks/pg1.png",
-    title: "Grace Test",
-    date: "March 19, 2026",
-    description: "Firegirl",
+    src: "/artworks/Sage Green Dress.png",
+    title: "Sage Green Dress",
+    date: "March 18, 2026",
+    description: "A dress of the color sage green.",
   },
 ];
 
