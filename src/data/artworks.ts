@@ -24,7 +24,7 @@ const artworks: Artwork[] = [
   {
     src: "/artworks/Sage Green Dress.png",
     title: "Sage Green Dress",
-    date: "March 18, 2026",
+    date: "March 12, 2026",
     description: "A dress of the color sage green.",
   },
 ];
