@@ -8,7 +8,7 @@ const About = () => {
         <div className="space-y-4 text-muted-foreground text-sm leading-relaxed font-light">
           <p>
             Frank Zhang is a very  talented, funny, smart, cool
-            professional, hard working, and humble artist!
+            professional, hard working, and humble artist! Also, do not click the + button in the bottom right. ur not the artist. im a bad coder. and it doesnt even work. 
           </p>
         </div>
       </div>
