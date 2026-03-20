@@ -22,6 +22,12 @@ export interface Artwork {
 
 const artworks: Artwork[] = [
   {
+    src: "/artworks/Sheep.png",
+    title: "A Knitting Sheep",
+    date: "March 20, 2026",
+    description: "Sorry I don't YET have the skills to make your knitting game Grace :(",
+  },
+  {
     src: "/artworks/seattle.png",
     title: "Seattle Afternoon",
     date: "March 19, 2026",
