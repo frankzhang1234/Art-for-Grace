@@ -22,7 +22,7 @@ export interface Artwork {
 
 const artworks: Artwork[] = [
   {
-    src: "/artworks/Grace Project portait_colored.png",
+    src: "/artworks/Grace Project portrait_colored.png",
     title: "Another Drawing of You",
     date: "April 17, 2026",
     description: "This actually took a while and it's part of a project I'm making for you :)",
