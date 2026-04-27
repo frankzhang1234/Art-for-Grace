@@ -22,6 +22,13 @@ export interface Artwork {
 
 const artworks: Artwork[] = [
   {
+    src: "/artworks/gself.png",
+    title: "More Grace Drawing",
+    date: "April 24, 2026",
+    description: "Wow wow",
+  },
+  
+  {
     src: "/artworks/Grace Project portrait_colored.png",
     title: "Another Drawing of You",
     date: "April 17, 2026",
